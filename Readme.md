@@ -6,7 +6,7 @@ I have cloned the repo from git the kink is given below
 Task 1: Docker, Docker Hub
 
   
-  • Create a Dockerfile for a simple web application (e.g. a Node.js or Python app)
+  • Create a Dockerfile for a simple application (java)
 
   • Build the image using the Dockerfile and run the container
 
