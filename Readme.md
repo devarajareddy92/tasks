@@ -1,7 +1,7 @@
 I have cloned the repo from git the kink is given below
 
 
-https://github.com/devarajareddy92/Thankyou.git
+
 
 Task 1: Docker, Docker Hub
 
