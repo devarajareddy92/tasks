@@ -430,5 +430,6 @@ Now save and click on “Build Now”
 
 Yay! 🚀 that's a SUCCESS!
 
-![ezgif-5-258bc46a9d](https://github.com/deepanshusharma007/Repo-devops-tasks/assets/68854274/13fdc257-ec12-4879-ac11-8e47cb756610)
+
+<img width="420" alt="Capture PNG22" src="https://github.com/devarajareddy92/tasks/assets/138653409/d3d6d3e2-a5ff-43aa-b999-42c8ec8b4616">
 
