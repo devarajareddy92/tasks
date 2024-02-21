@@ -1,4 +1,4 @@
-<img width="500" alt="Capture" src="https://github.com/devarajareddy92/tasks/assets/138653409/5bbe17b5-513d-47b8-95c5-045b8857aacd">I have cloned the repo from git the kink is given below
+I have cloned the repo from git the kink is given below
 
 
 
