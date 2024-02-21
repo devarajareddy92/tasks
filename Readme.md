@@ -37,7 +37,7 @@ I have cloned the repo from git the kink is given below
 
 # final result
  <img width="536" alt="Capture PNG6" src="https://github.com/devarajareddy92/tasks/assets/138653409/08f177bb-0331-4570-a049-20e54559b2ca">
-
+## Task3
 # How to Install Minikube on Ubuntu 22.04 Step-by-Step
 
 Table of Contents
@@ -195,7 +195,7 @@ $ kubectl get deployment,pod,svc
 <img width="504" alt="Capture PNG11" src="https://github.com/devarajareddy92/tasks/assets/138653409/13aa1ed0-9268-44b7-8c44-678f59455738">
 
 
-## Task2 Overview
+## Task2 
 
 - Set up Jenkins on AWS EC2 instance
 - Create a security group for Jenkins
